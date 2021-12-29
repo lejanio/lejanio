@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jānis!
 
-===
+---
 
 An aspiring Frontend Developer who loves the idea of creating beautiful and functional applications and websites by writing code.
 
