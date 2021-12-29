@@ -4,7 +4,7 @@
 
 I am an aspiring Frontend Developer who loves the idea of creating beautiful and functional applications and websites by writing code.
 
-I am constantly improving my skills and am currently focusing on React, while at the same time also familiarizing myself with other JS frameworks (Vue.js, Angular) and other technologies in the vast field of web development (Git, TypeScript, etc.).
+I am constantly improving my skills and am currently focusing on React, while at the same time also familiarizing myself with other JS frameworks (Vue.js, Angular) and other technologies in the vast field of web development.
 
 In my repositories, you can find a small Animal Filter App which allows the user to create a database of animals, as well as a version of the good old Rock, Paper, Scissors game with a twist.
 
