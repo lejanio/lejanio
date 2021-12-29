@@ -10,7 +10,7 @@ In my repositories, you can find a small Animal Filter App which allows the user
 
 ---
 
-My <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin-logo" width="30px" height="30px"> profile: https://www.linkedin.com/in/janis-leonciks/
+My <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linked-logo" width="25px" height="25px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin-logo" width="30px" height="30px" /> profile: https://www.linkedin.com/in/janis-leonciks/
 
 ---
 
