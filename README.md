@@ -8,6 +8,8 @@ I am constantly improving my skills and am currently focusing on React, while at
 
 In my repositories, you can find a small Animal Filter App which allows the user to create a database of animals, as well as a version of the good old Rock, Paper, Scissors game with a twist.
 
+---
+
 My LinkedIn profile: https://www.linkedin.com/in/janis-leonciks/
 
 
