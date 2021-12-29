@@ -12,6 +12,13 @@ In my repositories, you can find a small Animal Filter App which allows the user
 
 My LinkedIn profile: https://www.linkedin.com/in/janis-leonciks/
 
+---
+
+Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html-logo" width="50px> 
+
+
 
 
 <!--
