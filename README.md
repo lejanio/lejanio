@@ -2,7 +2,7 @@
 
 ---
 
-An aspiring Frontend Developer who loves the idea of creating beautiful and functional applications and websites by writing code.
+I am an aspiring Frontend Developer who loves the idea of creating beautiful and functional applications and websites by writing code.
 
 I am constantly improving my skills and am currently focusing on React, while at the same time also familiarizing myself with other JS frameworks (Vue.js, Angular) and other technologies in the vast field of web development (Git, TypeScript, etc.).
 
