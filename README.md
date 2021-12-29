@@ -16,12 +16,7 @@ My LinkedIn profile: https://www.linkedin.com/in/janis-leonciks/
 
 **Toolbox**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm-logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js-logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts-logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" width="50px" height="50px" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm-logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js-logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts-logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-logo" width="50px" height="50px" /> 
 
 
